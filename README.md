@@ -1,5 +1,5 @@
 ## Introduction 
-Hi ALl! Welcome to this project
+HI ALL! Welcome to this project
 There are 5 issues in this project, here are a brief summary of all of them 
 
 - task 1: Set up readme.md
