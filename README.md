@@ -12,4 +12,3 @@ There are 5 issues in this project, here are a brief summary of all of them
 
 
 ## Contributors 
-- 1155108847 So Chi Fung (for task 1)
