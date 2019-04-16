@@ -6,7 +6,7 @@ There are 5 issues in this project, here are a brief summary of all of them
 - task 2: Include data into readme
 - task 3: Project board
 - task 4: Write C code
--task 5: Promote your repo
+- task 5: Promote your repo
 
 ## Code 
 
