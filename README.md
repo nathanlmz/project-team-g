@@ -39,11 +39,8 @@ There are 5 issues in this project, here is a brief summary of all of them (You 
 ## Code 
 
 
-## Contributors 
-
+## Contributors
 {% include_relative _stu/1155053722.md %}
+{% include_relative _stu/1155112411.md %}
 
-## Last Update Time
-{% site.time %}
-=======
-
+{{site.time}}
