@@ -39,6 +39,29 @@ There are 5 issues in this project, here is a brief summary of all of them (You 
 ## Code 
 
 
+/*
+** Simple base 10 to base <10 converter.
+** Done by 1155091998 NING Jingjie, Ethan
+*/
+
+#include <stdio.h>
+
+main(int argc, char**argv)
+   {
+   if (argc == 3)
+      lastdigit(atoi(*++argv), atoi(*++argv));
+   else
+      printf("Usage: %s newbase", *argv);
+   putchar('\n');
+   }
+
+lastdigit(int num, int base){
+   if (num >= base)
+      lastdigit(num/base, base);
+   putchar(num%base + '0');
+}
+
+
 ## Contributors
 1. {% include_relative _stu/1155053722.md %}
 2. {% include_relative _stu/1155112411.md %}
