@@ -37,30 +37,9 @@ There are 5 issues in this project, here is a brief summary of all of them (You 
     - Edit the file to add a link of your team (`https://csci3250-2019.github.io/(repo name)`), and request for review from @chuckjee
 
 ## Code 
-
-
-/*
-** Simple base 10 to base <10 converter.
-** Done by 1155091998 NING Jingjie, Ethan
-*/
-
-#include <stdio.h>
-
-main(int argc, char**argv)
-   {
-   if (argc == 3)
-      lastdigit(atoi(*++argv), atoi(*++argv));
-   else
-      printf("Usage: %s newbase", *argv);
-   putchar('\n');
-   }
-
-lastdigit(int num, int base){
-   if (num >= base)
-      lastdigit(num/base, base);
-   putchar(num%base + '0');
-}
-
+{% highlight c %}
+{% include_relative code.c %}
+{% endhighlight %}
 
 ## Contributors
 1. {% include_relative _stu/1155053722.md %}
