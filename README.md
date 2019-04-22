@@ -1,12 +1,7 @@
 ## Introduction 
-HI ALL! Welcome to this project
+Hello here is Team G!
 
-All of you should create a file named `1155xxxxxx.md` (with your own SID) in the **`_stu`** folder, for grading (If I am correct).
-
-The file you must read: It includes all the details and tasks you need to do. 
-[CSCI3250+3251 Project Milestone #3](https://github.com/csci3250-2019/project-team-g/blob/master/tasks.md)
-
-There are 5 issues in this project, here is a brief summary of all of them (You should refer to the link above for details)
+In this project, we have to complete the following tasks.
 
 - Task 1: Set up readme.md
    
