@@ -41,6 +41,8 @@ There are 5 issues in this project, here is a brief summary of all of them (You 
 {% include_relative code.c %}
 {% endhighlight %}
 
+[![Build Status](https://travis-ci.org/csci3250-2019/project-team-g.svg?branch=master)](https://travis-ci.org/csci3250-2019/project-team-g)
+
 ## Contributors
 1. {% include_relative _stu/1155053722.md %}
 2. {% include_relative _stu/1155112411.md %}
